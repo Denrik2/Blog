@@ -1,0 +1,27 @@
+body{
+    background-color: #b2ebf2;
+}
+
+header{
+    text-align: center;
+}
+
+.hr-vertical-gradient {
+	margin: 20px 0;
+	padding: 0;
+	height: 10px;
+	border: none;
+	background: linear-gradient(180deg, orange, blue);
+}
+
+.hr-line {
+	margin: 20px 0;
+	padding: 0;
+	height: 0;
+	border: none;
+	border-top: 1px solid #333;
+}
+
+.author{
+    text-align: right;
+}
