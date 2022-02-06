@@ -1,5 +1,2 @@
-# Blog
-This blog is sort of a checklist of the technologies I've learned.  
-
-
-Finally i wrote my first project on Django!
+# News site
+In this project, I implemented a simple news site with the ability to add articles through the administrator Django. You can also go to the article. (This is my first project)
